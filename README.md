@@ -1,6 +1,8 @@
-# Git oppgave i IS105
-## Her er en oversikt, over hvordan denne filen funker.
+# Adrian Github i IS105/IS110
+## Kort oversikt over hvilke filer dette repository inneholder.
 
-I denne filen, har jeg lagt til en HubNavn java fil, som printer mitt navn.
+Tekstfil med navnet mitt, Adrian.txt
+Javafil knyttet til HashSet, sammen med med en class fil.
+En Hello World fil, main.cpp i kodespråket C++.
 
-Endret fra det lokale repotiroty 15.11 27.2.2021 
+Og en rekke andre eksempler vi har vært gjennom i ulike forelesninger.
